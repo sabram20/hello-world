@@ -1,0 +1,5 @@
+# Creating a variable in Python
+greeting_message = "Hello, world!"
+
+# Print the value of the variable
+print(greeting_message)
